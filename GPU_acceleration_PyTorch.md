@@ -1,4 +1,4 @@
-# Installation
+# Installation NVIDIA dependencies
 
 - **NVIDIA:**
     - **[CUDA](https://developer.nvidia.com/cuda-toolkit)**
@@ -78,4 +78,4 @@
         
     - With GPU
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7f754c1c-0996-4f2c-8c04-769692e29052/105cff3d-df40-4bf6-988e-1d8675476646/Untitled.png)
+    ![pytorch_MLP_GPU](assets/pytorch_GPU_MLP.png)
